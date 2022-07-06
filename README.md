@@ -1,4 +1,4 @@
-<h1>Average Height</h1>
+<h1>Average Height </h1>
 
 <h2>Description</h2>
 Program that calculates the average student height from a List of heights.
